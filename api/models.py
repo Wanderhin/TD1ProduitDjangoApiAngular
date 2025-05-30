@@ -12,6 +12,6 @@ class Produits(models.Model):
     quantite = models.FloatField()
     unite = models.CharField(max_length=25)
     description = models.CharField(max_length=500)
-    #categorie = models.ForeignKey(Categorie, on_delete=models.SET_NULL, null=True)
+    categorie = models.ForeignKey(Categorie, on_delete=models.SET_NULL, null=True)
 
 
