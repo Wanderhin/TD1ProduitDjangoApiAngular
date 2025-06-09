@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b24f34-9bea-4a86-a79c-610289e26663" name="Changes" comment="initialisation">
-      <change afterPath="$PROJECT_DIR$/api/migrations/0003_produits_categorie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/second.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProduitCRUD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProduitCRUD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     "Django Server.ProduitCRUD.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "Serveur Django.ProduitCRUD.executor": "Run",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/LEUKEFACK CHRISTIAN/Desktop/projetDjango/TimeTrack",
@@ -63,7 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -116,6 +116,8 @@
       <workItem from="1748596689555" duration="30000" />
       <workItem from="1748596742888" duration="115000" />
       <workItem from="1748596902312" duration="6223000" />
+      <workItem from="1749458881885" duration="471000" />
+      <workItem from="1749459600113" duration="1980000" />
     </task>
     <task id="LOCAL-00001" summary="initialisation">
       <option name="closed" value="true" />
